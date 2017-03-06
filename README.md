@@ -4,14 +4,25 @@ A command line ruby program that determines the winner of 2 hands.
 
 ## Installation
 
-Install it yourself as:
+Install it yourself as a Gem:
 
     $ gem install ar_poker
+
+Or
+
+    $ bundle install
 
 ## Usage
 
 <pre>
 $ bundle exec bin/poker help play
+</pre>
+
+
+## Rspec
+
+<pre>
+$ bundle exec rspec spec/
 </pre>
 
 
